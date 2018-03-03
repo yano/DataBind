@@ -49,3 +49,7 @@ public class BindPosition : MonoBehaviour, IBindable
 You can bind any two properties using `BindProperty` component. Currently, there is no type checking. If destination property is of type `String`, then source will be converted using `ToString` method.
 
 ![alt text](docs/BindProperty.png)
+
+## Requirements
+TextMeshPro
+https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126
